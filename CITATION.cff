@@ -1,0 +1,24 @@
+
+# RutaEC - Plantilla de citación
+# PENDIENTE DE COMPLETAR Y VALIDAR
+# Este archivo todavía no está listo para citar el proyecto.
+
+cff-version: 1.2.0
+message: "Los datos de citación de RutaEC están pendientes de completar y validar."
+title: "RutaEC"
+type: software
+
+# Datos pendientes:
+# - Nombres reales de los seis autores.
+# - URL oficial del repositorio.
+# - Versión publicada del proyecto.
+# - Fecha real de publicación.
+# - Validación final del archivo CFF.
+#
+# Cuando se confirmen los datos, agregar los campos:
+# authors:
+# repository-code:
+# version:
+# date-released:
+#
+# No inventar información.
